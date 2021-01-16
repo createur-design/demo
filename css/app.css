@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&display=swap");
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Nunito Sans", sans-serif;
+  background: url("./../images/composition.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+#compteur {
+  font-size: 10rem;
+  font-weight: 700;
+}
+#message b {
+  color: #ce0033;
+}
+#message {
+  display: none;
+  font-size: 2rem;
+  max-width: 200px;
+  transform: rotate(-5deg) translateX(-50px);
+}
+
+.final #compteur {
+  display: none;
+}
+.final #message {
+  display: block;
+}
