@@ -19,13 +19,6 @@ body {
 #message {
   display: none;
   font-size: 2rem;
-  max-width: 200px;
+  max-width: 20%;
   transform: rotate(-5deg) translateX(-50px);
-}
-
-.final #compteur {
-  display: none;
-}
-.final #message {
-  display: block;
 }
