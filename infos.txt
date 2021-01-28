@@ -1,0 +1,9 @@
+Brief : Nous souhaitons mettre en place un compte à rebours et à la fin de ce compte à rebours, afficher un message !
+
+1. Mettre en place la structure HTML
+
+2. Faire un peu de mise en page en CSS
+
+3. Développer la partie logique et dynamique en JS
+
+4. LET'S GO 🚀
